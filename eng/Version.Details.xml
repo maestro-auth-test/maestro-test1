@@ -3,9 +3,9 @@
   <!-- Elements contains all product dependencies -->
   <ProductDependencies></ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="arcade.sdk" Version="1.1.2">
+    <Dependency Name="arcade.sdk" Version="2.0.0">
       <Uri>https://github.com/dotnet/arcade</Uri>
-      <Sha>sha2</Sha>
+      <Sha>sha3</Sha>
     </Dependency>
   </ToolsetDependencies>
 </Dependencies>
