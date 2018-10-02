@@ -8,7 +8,7 @@
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="arcade.sdk" Version="1.1.1538505634">
+    <Dependency Name="arcade.sdk" Version="1.1.1538506166">
       <Uri>https://github.com/dotnet/arcade</Uri>
       <Sha>sha1</Sha>
     </Dependency>
