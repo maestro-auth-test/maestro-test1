@@ -2,7 +2,7 @@
 <Dependencies>
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="json.net" Version="1.1.1538511494">
+    <Dependency Name="json.net" Version="1.1.1538513077">
       <Uri></Uri>
       <Sha>sha1</Sha>
     </Dependency>
