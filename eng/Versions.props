@@ -3,6 +3,8 @@
   <PropertyGroup>
     <!-- This repo version -->
     <VersionPrefix>5.0.0</VersionPrefix>
+    <PreReleaseVersionLabel>delta</PreReleaseVersionLabel>
+    <PreReleaseVersionIteration>17</PreReleaseVersionIteration>
     <!-- Opt-out repo features -->
     <UsingToolXliff>false</UsingToolXliff>
     <UsingToolNetFrameworkReferenceAssemblies Condition="'$(DotNetBuildFromSource)' != 'true'">true</UsingToolNetFrameworkReferenceAssemblies>
