@@ -9,7 +9,7 @@
       <Sha>44a0f58d1f465f9c35a24768cf44ba14811c8bfb</Sha>
       <SourceBuildId>142</SourceBuildId>
     </Dependency>
-    <Dependency Name="Pizza" Version="4.0.0">
+    <Dependency Name="Pizza" Version="6.0.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test2</Uri>
       <Sha>47ff5be79e6949bc0e687ef15f66f603f90c7e85</Sha>
       <SourceBuildId>123</SourceBuildId>
