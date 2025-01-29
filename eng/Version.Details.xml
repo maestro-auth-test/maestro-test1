@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
+  <Source Uri="https://github.com/maestro-auth-test/maestro-test-vmr" Sha="c5570c7e9aa551a06e336bf552b2d56cf654be46" BarId="61126" />
   <!-- Elements contains all product dependencies -->
-  <ProductDependencies></ProductDependencies>
+  <ProductDependencies>
+  </ProductDependencies>
   <ToolsetDependencies>
     <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.0.0-beta.1.9.1.22.1">
       <Uri>https://github.com/dotnet/arcade</Uri>
