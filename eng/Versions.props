@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <PropertyGroup></PropertyGroup>
+  <PropertyGroup>
+  </PropertyGroup>
+  <!--Package versions-->
+  <PropertyGroup>
+    <Foo87c886a0PackageVersion>
+    </Foo87c886a0PackageVersion>
+    <Bar87c886a0PackageVersion>
+    </Bar87c886a0PackageVersion>
+  </PropertyGroup>
 </Project>
