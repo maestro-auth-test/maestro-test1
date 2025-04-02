@@ -4,9 +4,7 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foobae121d0PackageVersion>
-    </Foobae121d0PackageVersion>
-    <Barbae121d0PackageVersion>
-    </Barbae121d0PackageVersion>
+    <Foobae121d0PackageVersion>1.17.0</Foobae121d0PackageVersion>
+    <Barbae121d0PackageVersion>2.17.0</Barbae121d0PackageVersion>
   </PropertyGroup>
 </Project>
