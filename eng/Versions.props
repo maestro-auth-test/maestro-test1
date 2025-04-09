@@ -4,10 +4,8 @@
   </PropertyGroup>
   <!--Package versions-->
   <PropertyGroup>
-    <Foo12dd1570PackageVersion>
-    </Foo12dd1570PackageVersion>
-    <Bar12dd1570PackageVersion>
-    </Bar12dd1570PackageVersion>
+    <Foo12dd1570PackageVersion>1.17.0</Foo12dd1570PackageVersion>
+    <Bar12dd1570PackageVersion>2.17.0</Bar12dd1570PackageVersion>
     <PinnedFoo12dd1570PackageVersion>
     </PinnedFoo12dd1570PackageVersion>
     <PinnedBar12dd1570PackageVersion>
