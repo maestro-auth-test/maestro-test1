@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
+  <Source Uri="https://github.com/maestro-auth-test/maestro-test-vmr" Mapping="maestro-test1" Sha="44f6c4451bfda2898b5bca523b5e5ba6e4e716e3" BarId="151" />
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
-    <Dependency Name="Foo.0fc7dcda" Version="1.1.0">
-      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
-      <Sha />
+    <Dependency Name="Foo.0fc7dcda" Version="1.17.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
+      <Sha>44f6c4451bfda2898b5bca523b5e5ba6e4e716e3</Sha>
     </Dependency>
-    <Dependency Name="Bar.0fc7dcda" Version="2.1.0">
-      <Uri>https://github.com/maestro-auth-test/maestro-test1</Uri>
-      <Sha />
+    <Dependency Name="Bar.0fc7dcda" Version="2.17.0">
+      <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
+      <Sha>44f6c4451bfda2898b5bca523b5e5ba6e4e716e3</Sha>
     </Dependency>
   </ProductDependencies>
   <ToolsetDependencies>
