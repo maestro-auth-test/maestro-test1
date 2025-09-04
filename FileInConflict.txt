@@ -1,1 +1,1 @@
-This file will cause a conflict
+Causing a conflict by a change in the repo
