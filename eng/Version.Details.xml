@@ -5,9 +5,9 @@
   <ProductDependencies>
   </ProductDependencies>
   <ToolsetDependencies>
-    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="1.17.0">
+    <Dependency Name="Microsoft.DotNet.Arcade.Sdk" Version="2.1.0">
       <Uri>https://github.com/maestro-auth-test/maestro-test-vmr</Uri>
-      <Sha>c5141bbcea7330da16d591db149d508e8644013f</Sha>
+      <Sha>7b55b1c0b0c94135ac2febf263533579514b0e31</Sha>
       <SourceBuildId>142</SourceBuildId>
     </Dependency>
   </ToolsetDependencies>
