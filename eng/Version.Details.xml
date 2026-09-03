@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
-  <Source Uri="https://github.com/maestro-auth-test/maestro-test-vmr" Mapping="maestro-test1" Sha="b973286883180c7361fb3779b1e23fa2daf153c2" BarId="98479" />
+  <Source Uri="https://github.com/maestro-auth-test/maestro-test-vmr" Mapping="maestro-test1" Sha="06ba329e57b175d8eb55960ebf6497a82c6bc670" BarId="98480" />
   <!-- Elements contains all product dependencies -->
   <ProductDependencies>
   </ProductDependencies>
